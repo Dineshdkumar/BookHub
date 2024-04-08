@@ -1,0 +1,18 @@
+.Loader{
+    margin-top: 14rem;
+    display: flex;
+    flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.spinner-border{
+    height: 4rem;
+    width: 4rem;
+    
+}
+.LoadingTitle{
+  line-height: 2rem;
+  padding: 1rem 0;
+  color: black;
+  font-weight:bolder;
+}
