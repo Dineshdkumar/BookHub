@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BookHub/static/css/main.c60e9db9.css",
+    "main.js": "/BookHub/static/js/main.380078fb.js",
+    "static/media/CoverImg.jpg": "/BookHub/static/media/CoverImg.4c355c0290b94d1fe920.jpg",
+    "index.html": "/BookHub/index.html",
+    "main.c60e9db9.css.map": "/BookHub/static/css/main.c60e9db9.css.map",
+    "main.380078fb.js.map": "/BookHub/static/js/main.380078fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c60e9db9.css",
+    "static/js/main.380078fb.js"
+  ]
+}
