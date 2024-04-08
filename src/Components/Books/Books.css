@@ -62,7 +62,7 @@ box-shadow: 4px 6px 8px 1px rgba(0, 0, 0, 0.8)
     grid-template-columns: repeat(2, 1fr);
   }
   .MainContainer{
-    margin-top: 10rem;
+   
 }
 }
 
@@ -70,7 +70,5 @@ box-shadow: 4px 6px 8px 1px rgba(0, 0, 0, 0.8)
   .BooksContainer {
     grid-template-columns: repeat(1, 1fr);
   }
-  .MainContainer{
-    margin-top: 5rem;
-}
+
 }
